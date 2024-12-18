@@ -1,5 +1,5 @@
 # BitCalculator
-This calculator in form of a windows console application is ideal for tech nerds, who need to quickly and easily display a value in multiple different number systems and perform binary calculations. BitCalculator supports displaying the most common number systems, starting from binary up to hexadecimal and also supports mathematical operators like +, -, *, / and binary operators like >>, ^, ~, &, | etc...
+This calculator in form of a windows console application is ideal for tech nerds, who need to quickly and easily display a value in multiple different number systems and perform binary calculations. BitCalculator supports displaying the most common number systems, starting from binary up to hexadecimal and also supports mathematical operators like +, -, *, / and binary operators like >>, ^, ~, &, |, invert and so on.
 
 You can enter your calculation formula with various operators from the C-language such as + (add), % (modulo), & (bitwise and), << (bitwise left shift) and number formats such as binary, dual, octal, decimal, hexadecimal and ascii.
 
